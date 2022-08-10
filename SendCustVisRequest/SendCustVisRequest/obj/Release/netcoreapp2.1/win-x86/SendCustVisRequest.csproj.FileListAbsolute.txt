@@ -1,0 +1,28 @@
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.exe
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.deps.json
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.runtimeconfig.json
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.runtimeconfig.dev.json
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.dll
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.pdb
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.csprojAssemblyReference.cache
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.AssemblyInfoInputs.cache
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.AssemblyInfo.cs
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.csproj.CoreCompileInputs.cache
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.dll
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.pdb
+E:\CS Project InCollege\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.genruntimeconfig.cache
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.exe
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.deps.json
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.runtimeconfig.json
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.runtimeconfig.dev.json
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.dll
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\bin\Release\netcoreapp2.1\win-x86\SendCustVisRequest.pdb
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.csprojAssemblyReference.cache
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.AssemblyInfoInputs.cache
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.AssemblyInfo.cs
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.csproj.CoreCompileInputs.cache
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.dll
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.pdb
+H:\Computer Science Coursework\CS Project BeginBuild\SendCustVisRequest\SendCustVisRequest\obj\Release\netcoreapp2.1\win-x86\SendCustVisRequest.genruntimeconfig.cache

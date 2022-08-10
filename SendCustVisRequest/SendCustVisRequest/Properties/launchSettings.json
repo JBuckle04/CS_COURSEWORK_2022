@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SendCustVisRequest": {
+      "commandName": "Project"
+    }
+  }
+}

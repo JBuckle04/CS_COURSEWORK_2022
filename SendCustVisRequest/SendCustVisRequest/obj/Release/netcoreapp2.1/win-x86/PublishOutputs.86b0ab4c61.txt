@@ -1,0 +1,5 @@
+H:\Computer Science Coursework\CS Project BeginBuild\SendReqPublish\SendCustVisRequest.exe
+H:\Computer Science Coursework\CS Project BeginBuild\SendReqPublish\SendCustVisRequest.dll
+H:\Computer Science Coursework\CS Project BeginBuild\SendReqPublish\SendCustVisRequest.deps.json
+H:\Computer Science Coursework\CS Project BeginBuild\SendReqPublish\SendCustVisRequest.runtimeconfig.json
+H:\Computer Science Coursework\CS Project BeginBuild\SendReqPublish\SendCustVisRequest.pdb
